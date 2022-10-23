@@ -1,0 +1,15 @@
+C:\Ambiente\Andre\academia\desafio10-arquivos\bin\Debug\net6.0\desafio10-arquivos.exe
+C:\Ambiente\Andre\academia\desafio10-arquivos\bin\Debug\net6.0\desafio10-arquivos.deps.json
+C:\Ambiente\Andre\academia\desafio10-arquivos\bin\Debug\net6.0\desafio10-arquivos.runtimeconfig.json
+C:\Ambiente\Andre\academia\desafio10-arquivos\bin\Debug\net6.0\desafio10-arquivos.dll
+C:\Ambiente\Andre\academia\desafio10-arquivos\bin\Debug\net6.0\desafio10-arquivos.pdb
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.csproj.AssemblyReference.cache
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.AssemblyInfoInputs.cache
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.AssemblyInfo.cs
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.csproj.CoreCompileInputs.cache
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.dll
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\refint\desafio10-arquivos.dll
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.pdb
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\desafio10-arquivos.genruntimeconfig.cache
+C:\Ambiente\Andre\academia\desafio10-arquivos\obj\Debug\net6.0\ref\desafio10-arquivos.dll
